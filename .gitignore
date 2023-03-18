@@ -1,0 +1,7 @@
+*.idea
+db.sqlite3
+.env
+app/media
+app/images
+/__pycache__/
+*.pyc
